@@ -1,12 +1,12 @@
-# JQuery Task flow Chart
+# JQuery Task Flow Chart
 
 > Original Repos:   
-> - JQuery Task flow Chart: https://github.com/a19836/jquerytaskflowchart/   
+> - JQuery Task Flow Chart: https://github.com/a19836/jquerytaskflowchart/   
 > - Bloxtor: https://github.com/a19836/bloxtor/
 
 ## Overview
 
-**JQuery Task flow Chart** is a JavaScript library to draw diagrams, like: work-flows, logic flows, DB tables diagrams, use cases diagrams or any other type of diagrams. Basically you define your widgets and the exit points for each widget and then you connect them through drag and drop.
+**JQuery Task Flow Chart** is a JavaScript library to draw diagrams, like: work-flows, logic flows, DB tables diagrams, use cases diagrams or any other type of diagrams. Basically you define your widgets and the exit points for each widget and then you connect them through drag and drop.
 
 Check out a live example by opening [index.html](index.html).
 
