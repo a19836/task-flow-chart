@@ -1,7 +1,7 @@
 # JQuery Task Flow Chart
 
 > Original Repos:   
-> - JQuery Task Flow Chart: https://github.com/a19836/jquerytaskflowchart/   
+> - JQuery Task Flow Chart: https://github.com/a19836/jquery-task-flow-chart/   
 > - Bloxtor: https://github.com/a19836/bloxtor/
 
 ## Overview
